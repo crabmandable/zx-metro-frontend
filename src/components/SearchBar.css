@@ -1,0 +1,21 @@
+.Search-bar {
+    padding: 30px;
+    background-color: white;
+}
+
+.line-dot {
+    margin-top: 15px;
+    padding: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.station-name {
+    padding-top: 5px;
+}
+
+.suggestion {
+    border-bottom: 1px solid black;
+    display: flex; 
+    width: 100%;
+}

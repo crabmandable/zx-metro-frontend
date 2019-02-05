@@ -1,0 +1,26 @@
+.Station-times {
+    height: 300px;
+    background: black;
+    color: white;
+    overflow: auto;
+}
+
+.time-title {
+    padding-top: 8px;
+}
+
+.train-sched {
+    border-bottom: 1px solid white;
+    display: flex; 
+    width: 100%;
+    margin: 10px;
+}
+
+.dest {
+    margin-top:20px;
+}
+
+.minutes {
+    text-align: right;
+    margin-top:20px;
+}
