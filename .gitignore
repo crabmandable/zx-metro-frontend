@@ -24,3 +24,4 @@ yarn-error.log*
 
 public/bundle.js
 public/*.png
+public/public
